@@ -40,7 +40,7 @@ class D extends B{
     }
 }
 
-public class Inheritance {
+public class Polymorphism {
 
   public static void main(String[] args) {
     A a=new A();

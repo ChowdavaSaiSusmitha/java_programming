@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Cadre_of_Employee",
+            "request": "launch",
+            "mainClass": "oops.Cadre_of_Employee",
+            "projectName": "basicjava_d9cabc0d"
+        },
+        {
+            "type": "java",
+            "name": "PlaceOrder",
+            "request": "launch",
+            "mainClass": "oops.PlaceOrder",
+            "projectName": "basicjava_d9cabc0d"
+        },
+        {
+            "type": "java",
+            "name": "FarmAnimals",
+            "request": "launch",
+            "mainClass": "basics.FarmAnimals",
+            "projectName": "basicjava_d9cabc0d"
+        },
+        {
+            "type": "java",
+            "name": "Super_This_Static_Final",
+            "request": "launch",
+            "mainClass": "oops.Super_This_Static_Final",
+            "projectName": "basicjava_d9cabc0d"
+        },
+        {
+            "type": "java",
+            "name": "Interface",
+            "request": "launch",
+            "mainClass": "inheritance.Interface",
+            "projectName": "basicjava_d9cabc0d"
+        },
+        {
+            "type": "java",
+            "name": "Hierachial",
+            "request": "launch",
+            "mainClass": "inheritance.Hierachial",
+            "projectName": "basicjava_d9cabc0d"
+        },
+        {
+            "type": "java",
+            "name": "MultilevelInheritance",
+            "request": "launch",
+            "mainClass": "inheritance.MultilevelInheritance",
+            "projectName": "basicjava_d9cabc0d"
+        },
+        {
+            "type": "java",
+            "name": "SingleInheritance",
+            "request": "launch",
+            "mainClass": "inheritance.SingleInheritance",
+            "projectName": "basicjava_d9cabc0d"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "oops.Arrays",
+            "projectName": "basicjava_d9cabc0d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayAvg",
+            "request": "launch",
+            "mainClass": "basics.ArrayAvg",
+            "projectName": "basicjava_d9cabc0d"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "basics.Palindrome",
+            "projectName": "basicjava_d9cabc0d"
+        },
+        {
+            "type": "java",
+            "name": "LibraryManagementSystem",
+            "request": "launch",
+            "mainClass": "oops.LibraryManagementSystem",
+            "projectName": "basicjava_d9cabc0d"
+        },
+        {
+            "type": "java",
+            "name": "StudentUtility",
+            "request": "launch",
+            "mainClass": "basics.StudentUtility",
+            "projectName": "basicjava_d9cabc0d"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "basics.Arrays",
+            "projectName": "basicjava_d9cabc0d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

@@ -1,4 +1,4 @@
-package demopackage;
+package oops;
 class Example{
     void showdata(){
         System.out.println("this is a showdata method");
